@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caleb\\OneDrive\\Desktop\\ST10438433-CLDV6212-POE-Part3-\\ABCRetailers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73BA76F8-7DC4-43F5-AAB1-12DD0B49E4F4}|ABCRetailers.csproj|c:\\users\\caleb\\onedrive\\desktop\\st10438433-cldv6212-poe-part3-\\abcretailers\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BA76F8-7DC4-43F5-AAB1-12DD0B49E4F4}|ABCRetailers.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BA76F8-7DC4-43F5-AAB1-12DD0B49E4F4}|ABCRetailers.csproj|c:\\users\\caleb\\onedrive\\desktop\\st10438433-cldv6212-poe-part3-\\abcretailers\\views\\order\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73BA76F8-7DC4-43F5-AAB1-12DD0B49E4F4}|ABCRetailers.csproj|solutionrelative:views\\order\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BA76F8-7DC4-43F5-AAB1-12DD0B49E4F4}|ABCRetailers.csproj|c:\\users\\caleb\\onedrive\\desktop\\st10438433-cldv6212-poe-part3-\\abcretailers\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73BA76F8-7DC4-43F5-AAB1-12DD0B49E4F4}|ABCRetailers.csproj|solutionrelative:views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BA76F8-7DC4-43F5-AAB1-12DD0B49E4F4}|ABCRetailers.csproj|c:\\users\\caleb\\onedrive\\desktop\\st10438433-cldv6212-poe-part3-\\abcretailers\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BA76F8-7DC4-43F5-AAB1-12DD0B49E4F4}|ABCRetailers.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BA76F8-7DC4-43F5-AAB1-12DD0B49E4F4}|ABCRetailers.csproj|c:\\users\\caleb\\onedrive\\desktop\\st10438433-cldv6212-poe-part3-\\abcretailers\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73BA76F8-7DC4-43F5-AAB1-12DD0B49E4F4}|ABCRetailers.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BA76F8-7DC4-43F5-AAB1-12DD0B49E4F4}|ABCRetailers.csproj|c:\\users\\caleb\\onedrive\\desktop\\st10438433-cldv6212-poe-part3-\\abcretailers\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73BA76F8-7DC4-43F5-AAB1-12DD0B49E4F4}|ABCRetailers.csproj|solutionrelative:views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BA76F8-7DC4-43F5-AAB1-12DD0B49E4F4}|ABCRetailers.csproj|c:\\users\\caleb\\onedrive\\desktop\\st10438433-cldv6212-poe-part3-\\abcretailers\\views\\home\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73BA76F8-7DC4-43F5-AAB1-12DD0B49E4F4}|ABCRetailers.csproj|solutionrelative:views\\home\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\caleb\\OneDrive\\Desktop\\ST10438433-CLDV6212-POE-Part3-\\ABCRetailers\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\caleb\\OneDrive\\Desktop\\ST10438433-CLDV6212-POE-Part3-\\ABCRetailers\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAC4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T09:48:53.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\OneDrive\\Desktop\\ST10438433-CLDV6212-POE-Part3-\\ABCRetailers\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\caleb\\OneDrive\\Desktop\\ST10438433-CLDV6212-POE-Part3-\\ABCRetailers\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T09:14:32.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manage.cshtml",
+              "DocumentMoniker": "C:\\Users\\caleb\\OneDrive\\Desktop\\ST10438433-CLDV6212-POE-Part3-\\ABCRetailers\\Views\\Order\\Manage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Manage.cshtml",
+              "ToolTip": "C:\\Users\\caleb\\OneDrive\\Desktop\\ST10438433-CLDV6212-POE-Part3-\\ABCRetailers\\Views\\Order\\Manage.cshtml",
+              "RelativeToolTip": "Views\\Order\\Manage.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T09:13:14.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\caleb\\OneDrive\\Desktop\\ST10438433-CLDV6212-POE-Part3-\\ABCRetailers\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\caleb\\OneDrive\\Desktop\\ST10438433-CLDV6212-POE-Part3-\\ABCRetailers\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T09:04:10.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\caleb\\OneDrive\\Desktop\\ST10438433-CLDV6212-POE-Part3-\\ABCRetailers\\Views\\Order\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\caleb\\OneDrive\\Desktop\\ST10438433-CLDV6212-POE-Part3-\\ABCRetailers\\Views\\Order\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Order\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T09:03:34.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\caleb\\OneDrive\\Desktop\\ST10438433-CLDV6212-POE-Part3-\\ABCRetailers\\Views\\Home\\AdminDashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\AdminDashboard.cshtml",
+              "ToolTip": "C:\\Users\\caleb\\OneDrive\\Desktop\\ST10438433-CLDV6212-POE-Part3-\\ABCRetailers\\Views\\Home\\AdminDashboard.cshtml",
+              "RelativeToolTip": "Views\\Home\\AdminDashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T09:02:50.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\OneDrive\\Desktop\\ST10438433-CLDV6212-POE-Part3-\\ABCRetailers\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\caleb\\OneDrive\\Desktop\\ST10438433-CLDV6212-POE-Part3-\\ABCRetailers\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T08:46:33.942Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
