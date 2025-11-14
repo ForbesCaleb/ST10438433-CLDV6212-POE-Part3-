@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FoqL2hz3Krc=",
+  "dgSpecHash": "KjuueYmATR8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\caleb\\Downloads\\CLDV6212-Part2-main\\CLDV6212-Part1-main\\CLDV6212 ABCRetailers POE\\ABCRetailers\\obj\\Release\\net9.0\\WorkerExtensions\\WorkerExtensions.csproj",
+  "projectFilePath": "C:\\Users\\caleb\\OneDrive\\Desktop\\ST10438433-CLDV6212-POE-Part3-\\ABCRetailers\\obj\\Release\\net9.0\\WorkerExtensions\\WorkerExtensions.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\caleb\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.8\\microsoft.aspnet.webapi.client.5.2.8.nupkg.sha512",
     "C:\\Users\\caleb\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
